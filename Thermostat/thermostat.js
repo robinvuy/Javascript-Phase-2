@@ -3,6 +3,9 @@ class Thermostat {
     this.temperature = 20;
   }
 
+
+  // wasssupppp
+
   getTemperature() {
       if (this.setPowerSavingMode === true && this.temperature > 25) {
         this.temperature = 25;
